@@ -16,7 +16,7 @@ int main(void)
 		{
 			putchar((n1 / 10) + '0');
 			putchar((n1 % 10) + '0');
-			putchar
+			putchar(' ');
 			putchar((n1 % 10) + '0');
 			putchar((n1 % 10) + '0');
 
