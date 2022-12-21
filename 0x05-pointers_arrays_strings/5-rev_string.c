@@ -13,7 +13,7 @@ void rev_string(char *s)
 	while (s[i] != '\0')
 	    i++;
 
-	int m, h = i - 1, m / 2;
+	int m, h = (i - 1), (m / 2);
 
 	while (h >= 0)
 	{
