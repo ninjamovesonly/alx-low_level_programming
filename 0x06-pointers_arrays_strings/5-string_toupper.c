@@ -2,6 +2,7 @@
 
 /**
  * string_toupper - main program
+ * @s: char * - string
  * Return: char *
  */
 
