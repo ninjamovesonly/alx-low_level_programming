@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
-* _strncpy - main program
-* Return: char *
-*/
+ * _strncpy - main program
+ * @dest: destination string
+ * @src: source string
+ * @n: number of bytes to copy
+ * Return: char *
+ */
 
 char *_strncpy(char *dest, char *src, int n)
 {

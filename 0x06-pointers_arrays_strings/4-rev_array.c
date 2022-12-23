@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
-*  reverse_array - main program
-*  Return: void
-*/
+ * reverse_array - main program
+ * @a: array of int
+ * @n: int
+ * Return: void
+ */
 
 void reverse_array(int *a, int n)
 {

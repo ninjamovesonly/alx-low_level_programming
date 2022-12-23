@@ -2,6 +2,9 @@
 
 /**
  * _strncat - main program
+ * @dest: destination string
+ * @src: source string
+ * @n: number of bytes of str to concatenate
  * Return: char *
  */
 

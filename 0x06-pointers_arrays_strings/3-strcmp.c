@@ -2,6 +2,8 @@
 
 /**
  * _strcmp - main program
+ * @s1: string to compare
+ * @s2: string to compare
  * Return: int
  */
 
