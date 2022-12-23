@@ -2,6 +2,8 @@
 
 /**
  * _strcat - main program
+ * @str: pointer to a char
+ * @source: pointer to a char
  * Return: char *
  */
 
